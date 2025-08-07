@@ -1,1 +1,0 @@
-# pasdam-awesome-resume-dev
