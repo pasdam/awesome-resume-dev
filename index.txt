@@ -1,10 +1,10 @@
 1:"$Sreact.fragment"
-2:I[6448,["997","static/chunks/0a198474-18ca7374745277b9.js","835","static/chunks/835-53ccc0607ae614f1.js","91","static/chunks/91-155df53b2661f050.js","177","static/chunks/app/layout-382f5b3323386862.js"],""]
-4:I[9825,["997","static/chunks/0a198474-18ca7374745277b9.js","835","static/chunks/835-53ccc0607ae614f1.js","91","static/chunks/91-155df53b2661f050.js","177","static/chunks/app/layout-382f5b3323386862.js"],"TopNavBar"]
-5:I[7300,[],""]
-6:I[8034,[],""]
-a:I[4288,[],""]
-:HL["/awesome-resume-dev/_next/static/css/9233333cb34a16da.css","style"]
+2:I[7717,["997","static/chunks/0a198474-871cbe2bfbbaf562.js","566","static/chunks/566-ce588a0dab5e6e21.js","470","static/chunks/470-50306b895c0a8410.js","177","static/chunks/app/layout-254fd15208529c90.js"],""]
+4:I[8572,["997","static/chunks/0a198474-871cbe2bfbbaf562.js","566","static/chunks/566-ce588a0dab5e6e21.js","470","static/chunks/470-50306b895c0a8410.js","177","static/chunks/app/layout-254fd15208529c90.js"],"TopNavBar"]
+5:I[6053,[],""]
+6:I[3057,[],""]
+a:I[9796,[],""]
+:HL["/awesome-resume-dev/_next/static/css/be762c2b945edf5f.css","style"]
 3:T832,
     try {
       const storageMode = window.localStorage.getItem("flowbite-theme-mode");
@@ -52,13 +52,13 @@ a:I[4288,[],""]
         }
       });
     } catch (e) {}
-  0:{"P":null,"b":"zGuVUI6SaSGSfoB0bG4r3","p":"/awesome-resume-dev","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/awesome-resume-dev/_next/static/css/9233333cb34a16da.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"className":"h-full","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1.0"}],["$","$L2",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-YWGESS8KHY","strategy":"afterInteractive"}],["$","$L2",null,{"id":"google-analytics","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){window.dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-YWGESS8KHY');\n          "}],["$","script",null,{"data-flowbite-theme-mode-script":true,"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"className":"bg-gray-50 bg-gray-50 dark:bg-gray-800 h-dvh flex flex-col","children":[["$","$L4",null,{}],["$","main",null,{"className":"h-full flex flex-1 overflow-hidden bg-gray-50 bg-gray-50 dark:bg-gray-800","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],"$L7"],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}]]}],{"children":["__PAGE__","$L8",{},null,false]},null,false],"$L9",false]],"m":"$undefined","G":["$a",[]],"s":false,"S":true}
-b:I[337,[],"ClientPageRoot"]
-c:I[2137,["997","static/chunks/0a198474-18ca7374745277b9.js","882","static/chunks/49292a84-22cf03c9121a81a5.js","341","static/chunks/cbbc2011-9263b877947dbd82.js","167","static/chunks/9995bed3-2b5088a535869c3f.js","298","static/chunks/f42681cc-ba15d4ab4829b74d.js","536","static/chunks/98e921da-db48087d140d6515.js","835","static/chunks/835-53ccc0607ae614f1.js","378","static/chunks/378-04906c6736c487a7.js","656","static/chunks/656-6efcc3b1d6632e1f.js","166","static/chunks/166-ab0c4bb1b5e4de8e.js","974","static/chunks/app/page-f08af8ca1af9007e.js"],"default",1]
-f:I[9140,[],"OutletBoundary"]
-11:I[8348,[],"AsyncMetadataOutlet"]
-13:I[9140,[],"ViewportBoundary"]
-15:I[9140,[],"MetadataBoundary"]
+  0:{"P":null,"b":"77axfLwlLKDz51ybfWovb","p":"/awesome-resume-dev","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/awesome-resume-dev/_next/static/css/be762c2b945edf5f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"className":"h-full","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1.0"}],["$","$L2",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-YWGESS8KHY","strategy":"afterInteractive"}],["$","$L2",null,{"id":"google-analytics","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){window.dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-YWGESS8KHY');\n          "}],["$","script",null,{"data-flowbite-theme-mode-script":true,"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"className":"bg-gray-50 bg-gray-50 dark:bg-gray-800 h-dvh flex flex-col","children":[["$","$L4",null,{}],["$","main",null,{"className":"h-full flex flex-1 overflow-hidden bg-gray-50 bg-gray-50 dark:bg-gray-800","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],"$L7"],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}]]}],{"children":["__PAGE__","$L8",{},null,false]},null,false],"$L9",false]],"m":"$undefined","G":["$a",[]],"s":false,"S":true}
+b:I[2348,[],"ClientPageRoot"]
+c:I[4188,["997","static/chunks/0a198474-871cbe2bfbbaf562.js","882","static/chunks/49292a84-501c8c173107c21b.js","341","static/chunks/cbbc2011-08fb2d8e10d3f9d6.js","167","static/chunks/9995bed3-32d863496a42caaf.js","298","static/chunks/f42681cc-91339409401988df.js","536","static/chunks/98e921da-3086bb1b46e3032c.js","566","static/chunks/566-ce588a0dab5e6e21.js","444","static/chunks/444-42b9d5469f9bbe73.js","567","static/chunks/567-7d4e1c525d742e84.js","499","static/chunks/499-59b4f12f7692ac28.js","974","static/chunks/app/page-da3334233e4e7ed2.js"],"default",1]
+f:I[3976,[],"OutletBoundary"]
+11:I[3697,[],"AsyncMetadataOutlet"]
+13:I[3976,[],"ViewportBoundary"]
+15:I[3976,[],"MetadataBoundary"]
 16:"$Sreact.suspense"
 7:["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]
 8:["$","$1","c",{"children":[["$","$Lb",null,{"Component":"$c","searchParams":{},"params":{},"promises":["$@d","$@e"]}],null,["$","$Lf",null,{"children":["$L10",["$","$L11",null,{"promise":"$@12"}]]}]]}]
@@ -67,6 +67,6 @@ d:{}
 e:"$8:props:children:0:props:params"
 14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 10:null
-18:I[676,[],"IconMark"]
+18:I[9345,[],"IconMark"]
 12:{"metadata":[["$","title","0",{"children":"AwesomeResume - Free Resume/CV Builder"}],["$","meta","1",{"name":"description","content":"AwesomeResume is a free and powerful resume builder that allows anyone to quickly create a modern professional resume, using different styles."}],["$","link","2",{"rel":"icon","href":"/awesome-resume-dev/favicon.ico","type":"image/x-icon","sizes":"35x36"}],["$","$L18","3",{}]],"error":null,"digest":"$undefined"}
 17:"$12:metadata"
