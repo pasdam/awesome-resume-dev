@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
-2:I[38718,["/awesome-resume-dev/_next/static/chunks/80444e234f3a5325.js","/awesome-resume-dev/_next/static/chunks/782803d7cf6db9c7.js"],"ViewportBoundary"]
-4:I[38718,["/awesome-resume-dev/_next/static/chunks/80444e234f3a5325.js","/awesome-resume-dev/_next/static/chunks/782803d7cf6db9c7.js"],"MetadataBoundary"]
+2:I[26819,["/awesome-resume-dev/_next/static/chunks/8aa0efca034f1bca.js","/awesome-resume-dev/_next/static/chunks/0e0304d86f8c9c94.js"],"ViewportBoundary"]
+4:I[26819,["/awesome-resume-dev/_next/static/chunks/8aa0efca034f1bca.js","/awesome-resume-dev/_next/static/chunks/0e0304d86f8c9c94.js"],"MetadataBoundary"]
 5:"$Sreact.suspense"
-7:I[30847,["/awesome-resume-dev/_next/static/chunks/80444e234f3a5325.js","/awesome-resume-dev/_next/static/chunks/782803d7cf6db9c7.js"],"IconMark"]
-0:{"buildId":"wWzRlxNkIe9xe57Um2kgs","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"loading":null,"isPartial":false}
+7:I[40748,["/awesome-resume-dev/_next/static/chunks/8aa0efca034f1bca.js","/awesome-resume-dev/_next/static/chunks/0e0304d86f8c9c94.js"],"IconMark"]
+0:{"buildId":"2ZbA0E4gJYlgthSlJJmut","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"loading":null,"isPartial":false}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 6:[["$","title","0",{"children":"AwesomeResume - Free Resume/CV Builder"}],["$","meta","1",{"name":"description","content":"AwesomeResume is a free and powerful resume builder that allows anyone to quickly create a modern professional resume, using different styles."}],["$","link","2",{"rel":"icon","href":"/awesome-resume-dev/favicon.ico?favicon.bae79152.ico","sizes":"35x36","type":"image/x-icon"}],["$","$L7","3",{}]]
