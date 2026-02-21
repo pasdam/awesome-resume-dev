@@ -1,8 +1,6 @@
 1:"$Sreact.fragment"
-2:I[26819,["/awesome-resume-dev/_next/static/chunks/8aa0efca034f1bca.js","/awesome-resume-dev/_next/static/chunks/0e0304d86f8c9c94.js"],"ViewportBoundary"]
-4:I[26819,["/awesome-resume-dev/_next/static/chunks/8aa0efca034f1bca.js","/awesome-resume-dev/_next/static/chunks/0e0304d86f8c9c94.js"],"MetadataBoundary"]
-5:"$Sreact.suspense"
-7:I[40748,["/awesome-resume-dev/_next/static/chunks/8aa0efca034f1bca.js","/awesome-resume-dev/_next/static/chunks/0e0304d86f8c9c94.js"],"IconMark"]
-0:{"buildId":"2ZbA0E4gJYlgthSlJJmut","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"loading":null,"isPartial":false}
-3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-6:[["$","title","0",{"children":"AwesomeResume - Free Resume/CV Builder"}],["$","meta","1",{"name":"description","content":"AwesomeResume is a free and powerful resume builder that allows anyone to quickly create a modern professional resume, using different styles."}],["$","link","2",{"rel":"icon","href":"/awesome-resume-dev/favicon.ico?favicon.bae79152.ico","sizes":"35x36","type":"image/x-icon"}],["$","$L7","3",{}]]
+2:I[60145,["/awesome-resume-dev/_next/static/chunks/ca430cf62795b082.js","/awesome-resume-dev/_next/static/chunks/2782a8d2d88fef97.js"],"ViewportBoundary"]
+3:I[60145,["/awesome-resume-dev/_next/static/chunks/ca430cf62795b082.js","/awesome-resume-dev/_next/static/chunks/2782a8d2d88fef97.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[495,["/awesome-resume-dev/_next/static/chunks/ca430cf62795b082.js","/awesome-resume-dev/_next/static/chunks/2782a8d2d88fef97.js"],"IconMark"]
+0:{"buildId":"Ys8hLcdNecBZRHfyloViP","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"AwesomeResume - Free Resume/CV Builder"}],["$","meta","1",{"name":"description","content":"AwesomeResume is a free and powerful resume builder that allows anyone to quickly create a modern professional resume, using different styles."}],["$","link","2",{"rel":"icon","href":"/awesome-resume-dev/favicon.ico?favicon.bae79152.ico","sizes":"35x36","type":"image/x-icon"}],["$","$L5","3",{}]]}]}]}],null]}],"loading":null,"isPartial":false}
